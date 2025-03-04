@@ -1,14 +1,9 @@
 # one must imagine Alph happy
 
-
 ## Auteurs
 Raphaël GOSSET p2216446
 Yanis LAASSIBI p2210198
 Théo LANGE p2211174
-
-## Identifiant du projet sur la forge
-33481
-
 
 ## Description
 Ce projet a été réalisé dans le cadre d'un projet universitaire de deuxième année de licence informatique. Il s'agit d'un jeu vidéo développé en C++, utilisant le framework gkit et OpenGL pour la création d'interfaces graphiques et la gestion des graphismes.
