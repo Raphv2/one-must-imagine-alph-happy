@@ -3,7 +3,7 @@
 bin/*
 obj/*
 .vscode
-data/*
+data/shaders
 doc/*
 .DS_Store
 ._.DS_Store
